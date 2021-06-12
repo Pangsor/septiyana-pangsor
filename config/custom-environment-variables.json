@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "test_jwtPrivateKey",
+  "db": "test_dataBase",
+  "userDb": "test_userDb",
+  "passDb": "test_passDb"
+}
